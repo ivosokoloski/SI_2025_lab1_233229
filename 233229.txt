@@ -1,0 +1,16 @@
+13. git fetch origin
+-ја преземам целата содржина од remote репозиториумот заедно со сите промени.
+14. git checkout -b 2-find-all-completed-tasks origin/2-find-all-completed-tasks
+    nano SI2025Lab1Main.java
+15.git add .
+    git commit -m "Implement issue"
+16.git push
+-Исто така и за другите две гранки при што со овие команди 14-16 најпрвин ги земам гранките како локални па ги отворам соодветните јава фајлови, го имплементира issue таскот и ги додавам на сцена па ги поврзувам со remote repo така што преку GitHub отворам pull requests (18.) за сите три гранки
+22. git checkout master
+    git merge 4-sort-tasks-by-priority
+-со првата команда се префрлам на мастер и потоа ги спојувам двете гранки при што не се јавуваат конфликти
+23. git fetch 
+git push
+-со оваа команда мастер локалната гранка се синхронизира со оддалечената
+
+

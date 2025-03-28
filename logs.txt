@@ -1,0 +1,19 @@
+*   885bf8a (HEAD -> master, origin/master, origin/HEAD) merge 3rd branch wit ma
+ster
+|\
+| *   b809a7c Merge pull request #11 from ivosokoloski/3-list-tasks-sorted-by-na
+me
+| |\
+| | * 19015de (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name)
+Implement issue 3
+| * |   33f417b Merge pull request #10 from ivosokoloski/2-find-all-completed-ta
+sks
+| |\ \
+| | |/
+| |/|
+| | * edee29a (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implement issue 2
+| |/
+* / d62127d (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Implement issue 4
+|/
+* f744ca6 Add starter code
+* e7bc323 Initial commit
